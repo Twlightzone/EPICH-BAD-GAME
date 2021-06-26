@@ -1,1 +1,1 @@
-# EPICH-BAD-GAME
+# Project Template 26
